@@ -1,2 +1,3 @@
 # message_generator
-Sends random messages
+
+Creates a random travel plan for you!
